@@ -321,6 +321,10 @@ main {
 }
 
 @media (max-width: 480px) {
+    header,
+    main {
+        padding: 15px;
+    }
 
     .cta-button,
     .download-button {
